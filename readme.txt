@@ -6,3 +6,4 @@ add a line 2
 my stupid boss still prefer svn
 creating a new fdsa
 creating a new asdf
+just for other way merge
